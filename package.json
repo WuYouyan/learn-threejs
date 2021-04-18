@@ -1,0 +1,25 @@
+{
+  "name": "learn-threejs",
+  "version": "1.0.0",
+  "description": "a repository to record the process of learning three.js",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuYouyan/learn-threejs.git"
+  },
+  "keywords": [
+    "learn-three"
+  ],
+  "author": "WY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WuYouyan/learn-threejs/issues"
+  },
+  "homepage": "https://github.com/WuYouyan/learn-threejs#readme",
+  "dependencies": {
+    "three": "^0.127.0"
+  }
+}
